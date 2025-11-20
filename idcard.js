@@ -7,7 +7,7 @@
   'use strict';
 
   // === CONFIG: Replace GAS_URL here if you redeploy later ===
-  const GAS_URL = 'https://script.google.com/macros/s/AKfycbysOW9Uls96G-IZe4354cb2l26dpUbtlWvcwcrLrefbCXeyN5u_a9SOsRO0lpZeRNUW/exec';
+ const GAS_URL = "https://script.google.com/macros/s/AKfycbyKa00NRj45-B2gZIrlzSxKnv9bGziLKufcOko-yWQgLfGSVXEGIBm_2jaTEV0GjNNd/exec";
 
 
   // Background images (kept as confirmed)
