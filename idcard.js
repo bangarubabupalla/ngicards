@@ -9,6 +9,7 @@
   // === CONFIG: Replace GAS_URL here if you redeploy later ===
   const GAS_URL = 'https://script.google.com/macros/s/AKfycbysOW9Uls96G-IZe4354cb2l26dpUbtlWvcwcrLrefbCXeyN5u_a9SOsRO0lpZeRNUW/exec';
 
+
   // Background images (kept as confirmed)
   const BG = {
     "Student NIE": "https://iili.io/fHuJnBS.png",
